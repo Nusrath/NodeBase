@@ -9,9 +9,9 @@ module.exports = {
     },
 
     'twitterAuth' : {
-        'consumerKey'       : 'your-consumer-key-here',
-        'consumerSecret'    : 'your-client-secret-here',
-        'callbackURL'       : 'http://localhost:8080/auth/twitter/callback'
+        'consumerKey'       : 'wYcuaNPZWvc6kwJiPIVarIXn4',
+        'consumerSecret'    : 'y80X2AXZ75kBb7oqlCst8AWaeSbUkruq4asxOzt4h8xcP05AZ4',
+        'callbackURL'       : 'http://seedbox.co.za:3000/auth/twitter/callback'
     },
 
     'googleAuth' : {

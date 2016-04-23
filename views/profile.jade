@@ -31,7 +31,7 @@ html
               strong password:
               = ' ' + user.local.password
 
-        // LOCAL INFORMATION
+        // FACEBOOK INFORMATION
         .col-sm-6
           .well
             h3
@@ -49,3 +49,22 @@ html
               br
               strong name:
               = ' ' + user.facebook.name
+
+        // TWITTER INFORMATION
+        .col-sm-6
+          .well
+            h3
+              span.fa.fa-twitter
+              |  Twitter
+            p
+              strong id:
+              = ' ' + user.twitter.id
+              br
+              strong token:
+              = ' ' + user.twitter.token
+              br
+              strong username:
+              = ' ' + user.twitter.username
+              br
+              strong name:
+              = ' ' + user.twitter.displayName
