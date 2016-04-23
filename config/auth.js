@@ -4,7 +4,7 @@ module.exports = {
     'facebookAuth' : {
         'clientID'      : '1740932829486286',
         'clientSecret'  : 'f30dd93d24a77c97118289949fff792b',
-        'callbackURL'   : 'http://localhost:3000/auth/facebook/callback'
+        'callbackURL'   : 'http://seedbox.co.za:3000/auth/facebook/callback'
     },
 
     'twitterAuth' : {
