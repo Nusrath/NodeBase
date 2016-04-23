@@ -9,15 +9,15 @@ module.exports = {
     },
 
     'twitterAuth' : {
-        'consumerKey'       : 'wYcuaNPZWvc6kwJiPIVarIXn4',
-        'consumerSecret'    : 'y80X2AXZ75kBb7oqlCst8AWaeSbUkruq4asxOzt4h8xcP05AZ4',
-        'callbackURL'       : 'http://seedbox.co.za:3000/auth/twitter/callback'
+        'consumerKey'   : 'wYcuaNPZWvc6kwJiPIVarIXn4',
+        'consumerSecret': 'y80X2AXZ75kBb7oqlCst8AWaeSbUkruq4asxOzt4h8xcP05AZ4',
+        'callbackURL'   : 'http://seedbox.co.za:3000/auth/twitter/callback'
     },
 
     'googleAuth' : {
-        'clientID'      : 'your-secret-clientID-here',
-        'clientSecret'  : 'your-client-secret-here',
-        'callbackURL'   : 'http://localhost:8080/auth/google/callback'
+        'clientID'      : '837224795957-aht5nvn43i5vn9bf5dgt9i1pth0v0b76.apps.googleusercontent.com',
+        'clientSecret'  : 'hPz_3ijLhT0YD-F7Ycq97yFf',
+        'callbackURL'   : 'http://seedbox.co.za:3000/auth/google/callback'
     }
 
 };
